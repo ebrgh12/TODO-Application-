@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created .
+Please find my GIF  (http://i.imgur.com/YDzH2pK.gifv).
 
 ## Project Analysis
 
