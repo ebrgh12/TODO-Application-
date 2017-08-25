@@ -26,7 +26,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-  * I implemented image capture and store as TODO.
+  * I implemented image capture and store it as TODO.
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
